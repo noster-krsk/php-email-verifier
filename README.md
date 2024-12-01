@@ -1,1 +1,1 @@
-# php-email-verifier1
+# php-email-verifier
